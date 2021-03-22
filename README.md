@@ -11,7 +11,7 @@ I have used this <a href="http://vision.stanford.edu/aditya86/ImageNetDogs/">dat
 <br>
 <br>
 <h2>Model Summary</h2>
-<br>Model: "sequential_2"
+<br><h3>Model: "sequential_2"
   <br>
 _________________________________________________________________<br>
 Layer (type)                 Output Shape              Param #   <br>
@@ -43,4 +43,4 @@ dense_3 (Dense)              (None, 2)                 258       <br>
 Total params: 11,238,818<br>
 Trainable params: 11,238,818<br>
 Non-trainable params: 0<br>
-_________________________________________________________________
+_________________________________________________________________</h3>
